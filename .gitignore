@@ -16,3 +16,6 @@ node_modules/
 # Temp
 *.log
 /tmp/
+
+# Local Netlify folder
+.netlify
